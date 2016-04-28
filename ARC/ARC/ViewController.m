@@ -11,7 +11,7 @@
 @interface ViewController (){
 
     NSArray *_array;
-
+    NSMutableArray *_dataArr;
 }
 
 @end
